@@ -21,6 +21,8 @@ body {
 
 .main {
   font-size: 22px;
+  width: 80%;
+  margin: auto;
 }
 
 @media (max-width: 600px) {
